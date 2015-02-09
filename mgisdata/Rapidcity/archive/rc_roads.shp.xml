@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>City of Rapid City Planning Department, South Dakota</origin>
+				<pubdate>Unpublished Material</pubdate>
+				<title Sync="TRUE">rds_clp</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>\\MARIBETH\C$\MGIS\mgisdata\rapidcity\rapidnets.mdb</onlink>
+				<ftname Sync="TRUE">rds_clp</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>Street data for Rapid City, SD.</abstract>
+			<purpose>Developed for planning activities and geocoding.</purpose>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>October 2003</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Irregular</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-103.375487</westbc>
+				<eastbc Sync="TRUE">-103.121767</eastbc>
+				<northbc Sync="TRUE">44.137026</northbc>
+				<southbc Sync="TRUE">43.985774</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">630271.058075</leftbc><rightbc Sync="TRUE">650253.625006</rightbc><bottombc Sync="TRUE">4871783.046157</bottombc><topbc Sync="TRUE">4888165.255196</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>Unknown</themekt>
+				<themekey>streets</themekey>
+			</theme>
+			<place>
+				<placekey>Rapid City</placekey>
+			</place>
+		</keywords>
+		<accconst>No additional restrictions or legal prerequesites required to access this data.</accconst>
+		<useconst>Images of maps created with the data may be freely distributed.  The original data may not be distributed beyond the user without written permission of the Creator(s).</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Maribeth H. Price</cntper>
+					<cntorg>South Dakota School of Mines and Technology</cntorg>
+				</cntperp>
+				<cntpos>Associate Professor</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>501 E. S. Joseph St</address>
+					<city>Rapid City</city>
+					<state>SD</state>
+					<postal>57701</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>605-394-1290</cntvoice>
+				<cntfax>605-394-6703</cntfax>
+				<cntemail>Maribeth.Price@sdsmt.edu</cntemail>
+				<hours>9am-5pm MST/MDT  Mon-Fri</hours>
+				<cntinst>Email contact preferred.</cntinst>
+			</cntinfo>
+		</ptcontac>
+		<datacred>City of Rapid City Planning Department.</datacred>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 1; ESRI ArcCatalog 9.0.0.535</native>
+		<natvform Sync="TRUE">Shapefile</natvform></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>None available.</attraccr>
+		</attracc>
+		<logic>None available.</logic>
+		<complete>None available.</complete>
+		<lineage>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\MGIS\mgisdata\temp\metatemp.shp.xml</srcused>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\MGIS\mgisdata\temp\rdclpmeta.xml</srcused><date Sync="TRUE">20030626</date><time Sync="TRUE">16504300</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">C:\MGIS\mgisdata\rapidcity\rds_clp</srcused><date Sync="TRUE">20041221</date><time Sync="TRUE">16193100</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">C:\workshop\mgisdata\Rapidcity\rds_clp</srcused><date Sync="TRUE">20060809</date><time Sync="TRUE">12455600</time></procstep></lineage>
+		<cloud>N/A</cloud>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="rds_clp">
+				<sdtstype Sync="TRUE">String</sdtstype>
+				<ptvctcnt Sync="TRUE">4318</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="rds_clp"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polyline</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">4318</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000032</absres>
+						<ordres Sync="TRUE">0.000032</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">meters</plandu>
+				</planci>
+				<gridsys><gridsysn Sync="TRUE">Universal Transverse Mercator</gridsysn><utm><utmzone Sync="TRUE">13</utmzone><transmer><sfctrmer Sync="TRUE">0.999600</sfctrmer><longcm Sync="TRUE">-105.000000</longcm><latprjo Sync="TRUE">0.000000</latprjo><feast Sync="TRUE">500000.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></transmer></utm></gridsys></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1927</horizdn>
+				<ellips Sync="TRUE">Clarke 1866</ellips>
+				<semiaxis Sync="TRUE">6378206.400000</semiaxis>
+				<denflat Sync="TRUE">294.978698</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1927</geogcsn><projcsn Sync="TRUE">NAD_1927_UTM_Zone_13N</projcsn></cordsysn></horizsys>
+		<vertdef>
+			<altsys>
+				<altres>0.000010</altres>
+				<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="rds_clp">
+			<enttyp>
+				<enttypl Sync="TRUE">rds_clp</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">4318</enttypc></enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl Sync="TRUE">LENGTH</attrlabl>
+				<attrdef>Prefix direction</attrdef>
+				<attrdefs>Rapid City Planning</attrdefs>
+				<attalias Sync="TRUE">LENGTH</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">5</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">PREFIX</attrlabl>
+				<attrdef>Street name</attrdef>
+				<attrdefs>Rapid City Planning</attrdefs>
+				<attalias Sync="TRUE">PREFIX</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">2</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">STREET</attrlabl>
+				<attrdef>Full street name</attrdef>
+				<attrdefs>Rapid City Planning</attrdefs>
+				<attalias Sync="TRUE">STREET</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">40</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">ROADNAME</attrlabl>
+				<attrdef>Unknown</attrdef>
+				<attalias Sync="TRUE">ROADNAME</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">SUFFIX</attrlabl>
+				<attrdef>Suffix type</attrdef>
+				<attrdefs>Rapid City Planning</attrdefs>
+				<attalias Sync="TRUE">SUFFIX</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">SUFFIX2</attrlabl>
+				<attrdef>Suffix direction</attrdef>
+				<attrdefs>Rapid City Planning</attrdefs>
+				<attalias Sync="TRUE">SUFFIX2</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">DIR</attrlabl>
+				<attrdef>Direction</attrdef>
+				<attrdefs>Rapid City Planning</attrdefs>
+				<attalias Sync="TRUE">DIR</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">2</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">FRADD</attrlabl>
+				<attrdef>From address</attrdef>
+				<attrdefs>Rapid City Planning</attrdefs>
+				<attalias Sync="TRUE">FRADD</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">8</attwidth></attr>
+			<attr>
+				<attrlabl Sync="TRUE">TOADD</attrlabl>
+				<attrdef>To Address</attrdef>
+				<attrdefs>Rapid City Planning</attrdefs>
+				<attalias Sync="TRUE">TOADD</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">8</attwidth></attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>McGraw-Hill Higher Education</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>2460 Kerper Blvd</address>
+					<city>Dubuque</city>
+					<state>IA</state>
+					<postal>52001</postal>
+					<country>USA</country>
+				</cntaddr>
+			</cntinfo>
+		</distrib>
+		<resdesc>Data on CD-ROM</resdesc>
+		<distliab>May not be redistributed without permission of the Creator(s).</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.009</transize>
+					<dssize Sync="TRUE">0.530</dssize></digtinfo>
+			</digform>
+		</stdorder>
+		<custom>Copy to hard disk and remove read-only designation before using</custom>
+		<availabl>
+			<timeinfo>
+				<rngdates>
+					<begdate>October 2003</begdate>
+					<enddate>October 2008?</enddate>
+				</rngdates>
+			</timeinfo>
+		</availabl>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20050214</metd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Maribeth H. Price</cntper>
+					<cntorg>South Dakota School of Mines and Technology</cntorg>
+				</cntperp>
+				<cntpos>Associate Professor</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>501 E. St. Joseph St.</address>
+					<city>Rapid City</city>
+					<state>SD</state>
+					<postal>57701</postal>
+				</cntaddr>
+				<cntvoice>605-394-1290</cntvoice>
+				<cntfax>605-394-6703</cntfax>
+				<cntemail>Maribeth.Price@sdsmt.edu</cntemail>
+				<hours>9am-5pm MST/MDT  Mon-Fri</hours>
+				<cntinst>Email preferred.</cntinst>
+				<cntorgp><cntper>REQUIRED: The person responsible for the metadata information.</cntper><cntorg>REQUIRED: The organization responsible for the metadata information.</cntorg></cntorgp></cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metac>None</metac>
+		<metuc>None</metuc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>20060809</CreaDate><CreaTime>12455600</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20050214</SyncDate><SyncTime>19534300</SyncTime><ModDate>20050214</ModDate><ModTime>19534300</ModTime><MetaID>{582326AA-61D9-42B9-AF99-A30A8B960644}</MetaID><DataProperties><itemProps><itemLocation><linkage Sync="TRUE">file://\\HARNEY\C$\MGIS5\mgisdata\Rapidcity\oldstuff\rc_roads</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><copyHistory><copy source="C:\MGIS5\mgisdata\Rapidcity\rc_roads" dest="\\HARNEY\C$\MGIS5\mgisdata\Rapidcity\oldstuff\rc_roads" date="20100719" time="14081300"></copy></copyHistory></DataProperties></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 1; ESRI ArcCatalog 9.0.0.535</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">rds_clp</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-103.375487</westBL><eastBL Sync="TRUE">-103.121767</eastBL><northBL Sync="TRUE">44.137026</northBL><southBL Sync="TRUE">43.985774</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">630271.058075</westBL><eastBL Sync="TRUE">650253.625006</eastBL><northBL Sync="TRUE">4888165.255196</northBL><southBL Sync="TRUE">4871783.046157</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\MI-GEO-GISLAP\C$\MGIS3\mgisdata\Rapidcity\rds_clp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">0.530</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">NAD_1927_UTM_Zone_13N</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="rds_clp"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">4318</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20050214</mdDateSt></metadata>

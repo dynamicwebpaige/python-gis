@@ -1,0 +1,7 @@
+<PAMDataset>
+  <SRS>PROJCS[&quot;NAD_1983_StatePlane_Texas_Central_FIPS_4203_Feet&quot;,GEOGCS[&quot;GCS_North_American_1983&quot;,DATUM[&quot;North_American_Datum_1983&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Lambert_Conformal_Conic_2SP&quot;],PARAMETER[&quot;False_Easting&quot;,2296583.333333333],PARAMETER[&quot;False_Northing&quot;,9842500.0],PARAMETER[&quot;Central_Meridian&quot;,-100.3333333333333],PARAMETER[&quot;Standard_Parallel_1&quot;,30.11666666666667],PARAMETER[&quot;Standard_Parallel_2&quot;,31.88333333333333],PARAMETER[&quot;Latitude_Of_Origin&quot;,29.66666666666667],UNIT[&quot;Foot_US&quot;,0.3048006096012192]]</SRS>
+  <GeoTransform> 2.9469428647064632e+006, 1.2115924421534638e+002, 1.5907088244919576e+000, 1.0081156216759834e+007, 1.4120165976374455e+000,-1.2121291053780645e+002</GeoTransform>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="INTERLEAVE">PIXEL</MDI>
+  </Metadata>
+</PAMDataset>

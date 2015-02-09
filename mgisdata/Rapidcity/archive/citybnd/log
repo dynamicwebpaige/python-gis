@@ -1,0 +1,14 @@
+19960916 852   0     5    43jewillia GENERATE citytic
+19960916 852   0     0     2jewillia PROJECTCOPY FILE t#ll_pro.prj COVER citytic
+19960916 852   0     3    34jewillia BUILD citytic POINT
+19960916 852   0     0     0jewillia CREATEPOINT cityll citytic
+19960916 855   0     0     0jewillia ARCEDIT /NEWHOME/JEW/GIS/PLS/CITYTIC
+19960916 857   1     4    66jewillia copy citytic citybnd
+19960916 857   0     3    50jewillia transform /newhome/karol/kuma citybnd
+19960916 900   0    16   151jewillia clean citybnd
+19960916 900   0    10   127jewillia build citybnd poly
+199610081132   1     8    15jewillia export cover citybnd citybnd.e00
+199611151210   0    18   127jewillia build citybnd poly
+19970111 942   0    23   153jewillia clean citybnd citybndcl
+199706051112   0     9    28jewillia rename citybndcl citybnd
+199904061536   0     1     0msa9354 import cover citybnd.e00 citybnd

@@ -1,0 +1,18 @@
+;
+; ArcView Image Information
+;
+NCOLS       1964
+NROWS       1609
+NBANDS      8
+NBITS       8
+LAYOUT      BIL
+BYTEORDER   I
+SKIPBYTES   0
+MAPUNITS    METERS
+ULXMAP      529710.00000000
+ULYMAP      4779240.00000000
+XDIM        30.00000000
+YDIM        30.00000000
+PROJ_ID     "Universal Transverse Mercator"
+PROJ_ZONE   10
+PROJ_CODE   1   USGS

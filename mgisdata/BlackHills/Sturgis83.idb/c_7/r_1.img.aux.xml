@@ -1,0 +1,26 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>Layer_1</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>0</HistMin>
+        <HistMax>97</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|161334|6535|5155|4378|3953|3593|3425|3242|3199|3016|2943|2911|2873|2918|2837|2831|2965|2976|2727|2791|2856|2856|2867|2881|2844|2899|2878|2899|3008|2987|3014|3087|3070|3223|3302|3304|3346|3339|3526|3504|3548|3622|3557|3751|3707|3827|3709|3806|3902|4030|3946|4101|4130|4299|4306|4359|4488|4553|4553|4648|4784|4678|4795|4801|4761|4985|4865|4984|5146|5196|5345|5342|5433|5686|5944|6091|6271|6603|7088|7313|7401|7897|8160|8136|8532|8790|9172|9107|9412|9787|9877|10096|9839|8719|6529|3238|690|47|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">RLE</MDI>
+      <MDI key="PIXELTYPE">SIGNEDBYTE</MDI>
+    </Metadata>
+    <Metadata>
+      <MDI key="LAYER_TYPE">athematic</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">97</MDI>
+      <MDI key="STATISTICS_MEAN">42.354249569691</MDI>
+      <MDI key="STATISTICS_STDDEV">34.948909034139</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

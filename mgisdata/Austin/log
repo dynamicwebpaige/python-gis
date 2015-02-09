@@ -1,0 +1,4 @@
+201007192200   1    72     0maribeth C:\MGIS5\mgisdata\Austin\crestviewc1 = SELECTBOX(C:\MGIS5\Datastaging\Austin_new\imagery\AUSTIN_EAST_NW.sid\Band_1,  3119390, 10096800, 3130795, 10108660, INSIDE)
+201007192201   1    72     0maribeth C:\MGIS5\mgisdata\Austin\crestviewc2 = SELECTBOX(C:\MGIS5\Datastaging\Austin_new\imagery\AUSTIN_EAST_NW.sid\Band_2,  3119390, 10096800, 3130795, 10108660, INSIDE)
+201007192202   1    72     0maribeth C:\MGIS5\mgisdata\Austin\crestviewc3 = SELECTBOX(C:\MGIS5\Datastaging\Austin_new\imagery\AUSTIN_EAST_NW.sid\Band_3,  3119390, 10096800, 3130795, 10108660, INSIDE)
+201007192202   0     0     0maribeth MakeStack C:\MGIS5\mgisdata\Austin\crestview LIST C:\MGIS5\mgisdata\Austin\crestviewc1 C:\MGIS5\mgisdata\Austin\crestviewc2 C:\M

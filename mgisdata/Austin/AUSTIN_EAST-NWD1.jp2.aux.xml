@@ -1,0 +1,10 @@
+<PAMDataset>
+  <Metadata domain="xml:ESRI" format="xml">
+    <GeodataXform xsi:type="typens:IdentityXform" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:typens="http://www.esri.com/schemas/ArcGIS/9.2">
+      <SpatialReference xsi:type="typens:ProjectedCoordinateSystem">
+        <WKT>PROJCS[&quot;NAD_1983_StatePlane_Texas_Central_FIPS_4203_Feet&quot;,GEOGCS[&quot;GCS_North_American_1983&quot;,DATUM[&quot;D_North_American_1983&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Lambert_Conformal_Conic&quot;],PARAMETER[&quot;False_Easting&quot;,2296583.333333333],PARAMETER[&quot;False_Northing&quot;,9842500.0],PARAMETER[&quot;Central_Meridian&quot;,-100.3333333333333],PARAMETER[&quot;Standard_Parallel_1&quot;,30.11666666666667],PARAMETER[&quot;Standard_Parallel_2&quot;,31.88333333333333],PARAMETER[&quot;Latitude_Of_Origin&quot;,29.66666666666667],UNIT[&quot;Foot_US&quot;,0.3048006096012192]]</WKT>
+        <HighPrecision>true</HighPrecision>
+      </SpatialReference>
+    </GeodataXform>
+  </Metadata>
+</PAMDataset>

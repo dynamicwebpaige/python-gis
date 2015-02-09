@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Capital Area Council of Governments (CAPCOG)</origin>
+				<pubdate></pubdate>
+				<geoform>remote-sensing image</geoform>
+				<onlink>\\COS-NBK-56\C$\Image Test\ArtNE.tif</onlink>
+				<title Sync="TRUE">AUSTIN_EAST-NWD1.tif</title><ftname Sync="TRUE">AUSTIN_EAST-NWD1.tif</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>A project was undertaken by the Capital Area Council of Governments (CAPCOG) in the spring of 2006 to create orthophoto imagery for the entire CAPCOG region.  Overall, orthophotos of different resolutions were produced to cover the various communities within the CAPCOG area.  These resolutions included 0.5', 1.0' and 2.0' orthophotos.</abstract>
+			<purpose>To produce orthophoto imagery for the CAPCOG region.</purpose>
+			<supplinf>Orthophotos were produced by the Sanborn Map Company, Colorado Springs, CO.</supplinf>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates><begdate>February 29, 2006</begdate><enddate>April 4, 2006</enddate></rngdates><sngdate><caldate>REQUIRED: The year (and optionally month, or month and day) for which the data set corresponds to the ground.</caldate></sngdate></timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">REQUIRED: Western-most coordinate of the limit of coverage expressed in longitude.</westbc><eastbc Sync="TRUE">REQUIRED: Eastern-most coordinate of the limit of coverage expressed in longitude.</eastbc><northbc Sync="TRUE">REQUIRED: Northern-most coordinate of the limit of coverage expressed in latitude.</northbc><southbc Sync="TRUE">REQUIRED: Southern-most coordinate of the limit of coverage expressed in latitude.</southbc></bounding>
+			<lboundng><leftbc Sync="TRUE">3121257.000000</leftbc><rightbc Sync="TRUE">3126318.500000</rightbc><bottombc Sync="TRUE">10092769.000000</bottombc><topbc Sync="TRUE">10098566.000000</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>Federal Geographic Data Committee</themekt>
+				<themekey>orthophoto</themekey>
+				<themekey>rectified</themekey>
+				<themekey>imagery</themekey>
+				<themekey>aerial photograph</themekey>
+			</theme>
+			<place>
+				<placekey>CAPCOG</placekey>
+				<placekey>Austin</placekey>
+				<placekey>Texas</placekey>
+			</place>
+			<temporal>
+				<tempkey>2006</tempkey>
+			</temporal>
+			<stratum><stratkey>N/A</stratkey></stratum></keywords>
+		<accconst>N/A</accconst>
+		<useconst>The geospatial and tabular data developed and/or distributed by the Capital Area Council of Governments (CAPCOG) is being made available to the general public under certain terms and conditions. As a condition to obtaining the data, the Licensee hereby agrees as follows:
+1) No warranties of any kind, including warranties of suitability for any particular purpose, warranties of merchantability, warranties of accuracy, warranties of fitness for a particular purpose, or any warranty of any kind or nature whatsoever are made by CAPCOG with regard to the accuracy or completeness of the data.
+2) As a specific condition to receiving the data, the Licensee agrees that CAPCOG shall not be liable for any damages, including any indirect, special, incidental, consequential, or damages of any other kind whatsoever, arising out of or connected in any way with the use, re-use modification, or re-publication of the data.
+3) The Licensee shall indemnify and hold CAPCOG and their respective officials, employees, and agents harmless against any claim, suit, or cause of action, in any court or administrative proceeding, including attorney's fees and costs of court, arising out of or connected in any way to the use of the data.
+4) CAPCOG specifically disclaims any and all liability arising out of or connected to the use of the data in combination with any other spatial data resulting in any overlay maps or other work product of any kind which might be subject to misinterpretation due to discrepancies in accuracy, scale, point(s) of origination, and/or direction.
+5) CAPCOG also specifically disclaims any and all liability arising out of or connected to the use of data developed using historical, current, and/or predictive models.
+I have read the provisions set forth above and as a condition of obtaining and using any data developed and/or distributed by CAPCOG, I specifically agree that the provisions contained herein are binding upon myself, individual, and upon any organization I may represent.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Capital Area Council of Governmentes (CAPCOG)</cntorg>
+				</cntorgp>
+				<cntpos>Center For Regional Development</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>P.O. Box 17848</address>
+					<city>Austin</city>
+					<state>Texas</state>
+					<postal>78760-7848</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>512-916-6041</cntvoice>
+			</cntinfo>
+		</ptcontac>
+		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.0.1324</native>
+		<natvform Sync="TRUE">Raster Dataset</natvform></idinfo>
+	<dataqual>
+		<lineage>
+			<procstep>
+				<proccont><cntinfo><cntorgp><cntorg>Sanborn Map Co., Inc</cntorg></cntorgp><cntaddr><addrtype>physical address</addrtype><address>1935 Jamboree Drive, Suite 100</address><city>Colorado Springs</city><state>Colorado</state><postal>80920</postal><country>U.S.A.</country></cntaddr><cntvoice>1-877-368-9702</cntvoice><cntemail>information@sanborn.com</cntemail><hours>8:00 AM to 5:00 PM Mountain Time</hours></cntinfo></proccont><procdesc>Orthorimagery was created from natural color digital aerial photography captured at 6.5 cm, 13 cm, 27 cm and 54 cm GSD using a USGS-approved calibrated large format digital frame aerial camera.  Capture period is February-April 2006.  Control sources include photo-identifiable ground survey points and airborne GPS/IMU data. Ground resolution is nominal .25 Foot, .5 Foot, 1.0 Foot and 2.0 Foot.  Orthoimages were created by Sanborn Map Company, Inc..  During the aerial triangulation process, the control was densified and the photo measurements and ground control were combined in a single rigorous least squares bundle block adjusment.
+The ground control was densified using Assisted Aerial Trinagulation (AAT) in the softcopy environment.  The photo measurements and ground control were adjusted in a single rigorous least squares bundle block adjustment.  Residuals are carefully assessed to evaluate block integrity.  The adjusted block images are orthorectified using Sanborn's proprietery software and OrthoPro software.  Images were color balanced and mosaicked using image processing tools developed by Sanborn.  The mosaicked images are cut to their final State Plane image files and naming scheme and provided to the Captal Area Planning Council of Governments.</procdesc></procstep>
+			<procstep>
+			</procstep>
+			<procstep>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">N:\0675_CapCog\FINAL_DELIV\CAPCOG_Metadata_Central.xml</srcused><date Sync="TRUE">20070613</date><time Sync="TRUE">16092400</time></procstep></lineage>
+		<attracc><attraccr>N/A</attraccr><qattracc><attraccv>N/A</attraccv><attracce>N/A</attracce></qattracc></attracc><logic>Original source orthoimages were subjected to manual quality control review by Sanborn Map Co. Inc, including checking for seamline placement; tile edge matching; excessive tall building displacement; overall color balance; correction of bridges; terrain warps/smears; and artifacts.  Final (production) orthoimages were reviewed by a third party (PBS&amp;J) to validate that all imagery met the CAPCOG GeoMap 2006 Acceptance Criteria (which addressed positional accuracy, aesthetic/functional quality, physical file format, and presences of required metadata elements).</logic><complete>The orthoimages were visually inspected imagery completeness to ensure that no gaps in overall coverage, nor image misplacements within and between adjacent images</complete><posacc><horizpa><horizpar>.25 foot	+/- .5 feet (2 pixels) RMSE
+.5 foot	+/- 1 feet (2 pixels) RMSE
+1 foot	+/- 2 feet (2 pixels) RMSE
+2 foot	+/- 4 feet (2 pixels) RMSE
+</horizpar><qhorizpa><horizpae>Horizontal accuracy based upon the NSSDA for 1"=50', 1"=100', 1"=200, and 1"=400' scale mapping.  </horizpae></qhorizpa></horizpa><vertacc><vertaccr>N/A</vertaccr><qvertpa><vertaccv>N/A</vertaccv><vertacce>N/A</vertacce></qvertpa></vertacc></posacc><cloud>&gt;5%</cloud></dataqual>
+	<spdoinfo>
+		<direct>Raster</direct>
+		<rastinfo>
+			<rasttype>Pixel</rasttype>
+			<rowcount>11479</rowcount>
+			<colcount>9952</colcount>
+			<vrtcount>1</vrtcount>
+			<rastxsz Sync="TRUE">0.500000</rastxsz><rastysz Sync="TRUE">0.500000</rastysz><rastbpp Sync="TRUE">8</rastbpp><rastorig Sync="TRUE">Upper Left</rastorig><rastcmap Sync="TRUE">FALSE</rastcmap><rastcomp Sync="TRUE">None</rastcomp><rastband Sync="TRUE">4</rastband><rastdtyp Sync="TRUE">pixel codes</rastdtyp><rastplyr Sync="TRUE">FALSE</rastplyr><rastifor Sync="TRUE"></rastifor></rastinfo>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<mapproj>
+					<mapprojn>Lambert Conformal Conic</mapprojn>
+					<lambertc>
+						<stdparll>30.116667</stdparll>
+						<stdparll>31.883333</stdparll>
+						<longcm>-100.333333</longcm>
+						<latprjo>29.666667</latprjo>
+						<feast>2296583.333333</feast>
+						<fnorth>9842500.000000</fnorth>
+					</lambertc>
+				</mapproj>
+				<planci>
+					<plance>row and column</plance>
+					<coordrep>
+						<absres>2.000000</absres>
+						<ordres>2.000000</ordres>
+					</coordrep>
+					<plandu>survey feet</plandu>
+				</planci>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn>Texas State Plane</geogcsn><projcsn>Central Zone FIPS 4203</projcsn></cordsysn></horizsys>
+	</spref>
+	<distinfo>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>447.000</transize>
+					<dssize Sync="TRUE">0.000</dssize></digtinfo>
+			</digform>
+		</stdorder>
+		<resdesc Sync="TRUE">Downloadable Data</resdesc></distinfo>
+	<metainfo>
+		<metd>20070515</metd>
+		<metrd>20070515</metrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Capital Area Council of Governments (CAPCOG)</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>P.O. Box 17848</address>
+					<city>Austin</city>
+					<state>Texas</state>
+					<postal>78760-7848</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>512-916-6041</cntvoice>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metac>None</metac>
+		<metuc>None</metuc>
+		<metsi>
+			<metsc>Unclassified</metsc>
+		</metsi>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><ModDate>20070613</ModDate><ModTime>16092500</ModTime><CreaDate>20100725</CreaDate><CreaTime>12441400</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20070613</SyncDate><SyncTime>16092500</SyncTime><ArcGISFormat>1.0</ArcGISFormat><ArcGISstyle>North American Profile of ISO19115 2003</ArcGISstyle><DataProperties><itemProps><itemLocation><linkage Sync="TRUE">file://\\HARNEY\C$\MGIS5\mgisdata\Austin\AUSTIN_EAST-NWD1.jp2</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><copyHistory><copy source="C:\MGIS5\Datastaging\Austin_new\imagery\i2006\AUSTIN_EAST-NWD1.jp2" dest="\\HARNEY\C$\MGIS5\mgisdata\Austin\AUSTIN_EAST-NWD1.jp2" date="20100725" time="12441400"></copy></copyHistory></DataProperties></Esri><mdDateSt Sync="TRUE">20070613</mdDateSt><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.2.1350</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">AUSTIN_EAST-NWD1.tif</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="002"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">3121257</westBL><eastBL Sync="TRUE">3126318.5</eastBL><northBL Sync="TRUE">10098566</northBL><southBL Sync="TRUE">10092769</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><linkage Sync="TRUE">file://\\COWKS309\E\Austin_EMS\HD1\AUSTIN_EAST-NWD1.tif</linkage><protocol Sync="TRUE">Local Area Network</protocol><orDesc Sync="TRUE">002</orDesc></onLineSrc><transSize Sync="TRUE">0.000</transSize></distorTran><distorFormat><formatName Sync="TRUE">Raster Dataset</formatName></distorFormat></distributor></distInfo><spatRepInfo><GridSpatRep><numDims Sync="TRUE">2</numDims><axDimProps><Dimen><dimName><DimNameTypCd Sync="TRUE" value="002"></DimNameTypCd></dimName><dimSize Sync="TRUE">10123</dimSize><dimResol><value Sync="TRUE">0.5</value><uom><UomLength><uomName Sync="TRUE">unknown</uomName></UomLength></uom></dimResol></Dimen><Dimen><dimName><DimNameTypCd Sync="TRUE" value="001"></DimNameTypCd></dimName><dimSize Sync="TRUE">11594</dimSize><dimResol><value Sync="TRUE">0.5</value><uom><UomLength><uomName Sync="TRUE">unknown</uomName></UomLength></uom></dimResol></Dimen></axDimProps><cellGeo><CellGeoCd Sync="TRUE" value="002"></CellGeoCd></cellGeo><tranParaAv Sync="TRUE">1</tranParaAv></GridSpatRep></spatRepInfo></metadata>

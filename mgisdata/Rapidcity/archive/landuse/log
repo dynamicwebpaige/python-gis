@@ -1,0 +1,47 @@
+199606141330   0     0     0lcraft create rcland geoutm02
+199606141330   0     4     0lcraft transform rcland02 rcland
+199606141403   0     1     0lcraft copy rcland  /disk2/lcraft/land/rcland
+199606171338   0     0     0lcraft ARCEDIT /DISK2/LCRAFT/LAND/RCLAND
+199606171338   0     2   217lcraft build rcland polys
+199606211359   0     0     0lcraft ARCEDIT /DISK2/LCRAFT/LAND/RCLAND
+199606211402   1     9     0lcraft intersecterr rcland
+199606211402   0     7     0lcraft build rcland polys
+19960701 948   0     0     0lcraft ARCEDIT /DISK2/LCRAFT/LAND/RCLAND
+19960701 951   1     3   459lcraft build rcland polys
+199607151145   0     0     0externalall
+199607171447   0     0     0externalall
+199607241537   0     0     8lcraft labelerrors rcland
+199607241546   0     0    76lcraft copy rcland rcedit
+199607241604   0     0     0lcraft ARCEDIT /DISK2/LCRAFT/LAND/RCEDIT
+199607241605   0     0     0lcraft ARCEDIT /DISK2/LCRAFT/LAND/RCEDIT
+199607241605   0     3   172lcraft build rcedit poly
+199607241608   0     0     3lcraft labelerrors rcedit
+199607241617   0     0    58lcraft copy rcedit rcland
+199608191518   0     0     0lcraft ARCEDIT /DISK2/LCRAFT/LAND/RCLAND
+199608191545   0     0     0lcraft ARCEDIT /DISK2/LCRAFT/LAND/RCLAND
+199608191602   0     0     0lcraft ARCEDIT /DISK2/LCRAFT/LAND/RCLAND
+199608191617   0     0     0lcraft ARCEDIT /DISK2/LCRAFT/LAND/RCLAND
+199608191639   0     0     0lcraft ARCEDIT /DISK2/LCRAFT/LAND/RCLAND
+199608191647   0     0     0lcraft ARCEDIT /DISK2/LCRAFT/LAND/RCLAND
+199608201501   0     0     0lcraft ARCEDIT /DISK2/LCRAFT/LAND/RCLAND
+199608201510   0     0     0lcraft ARCEDIT /DISK2/LCRAFT/LAND/RCLAND
+199608201514   0     0     0lcraft ARCEDIT /DISK2/LCRAFT/LAND/RCLAND
+199608201517   0     2   137lcraft intersecterr rcland
+199608201519   0     3   161lcraft build rcland poly
+199608201519   0     0     2lcraft labelerrors rcland
+199608201551   0     0     0lcraft ARCEDIT /DISK2/LCRAFT/LAND/RCLAND
+199608201552   1     3   215lcraft build rcland poly
+199608201552   0     0     0lcraft labelerrors rcland
+199608201558   0     4   172lcraft build rcland poly
+199608201605   0     0     0lcraft labelerrors rcland
+199608201614   0     0     0lcraft ARCEDIT /DISK2/LCRAFT/LAND/RCLAND
+199608201614   0     2   221lcraft build rcland poly
+199608201615   0     0     0lcraft labelerrors rcland
+199608201623   0     0     0lcraft ARCEDIT /DISK2/LCRAFT/LAND/RCLAND
+199608201623   0     2   218lcraft build rcland poly
+199608201623   0     0     0lcraft labelerrors rcland
+199608211154   0     0     0lcraft ARCEDIT /DISK2/LCRAFT/LAND/RCLAND
+199608211155   0     2   225lcraft build rcland poly
+199608221449   0     0     0lcraft ARCEDIT /DISK2/LCRAFT/LAND/RCLAND
+199608221449   0     2   220lcraft build rcland poly
+199906101802   1     0   146jjohn copy rcland /u/jjohn/avdata/landuse

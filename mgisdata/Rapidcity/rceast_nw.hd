@@ -1,0 +1,146 @@
+BEGIN_USGS_DOQ_HEADER                                                         *
+
+QUADRANGLE_NAME "RAPID CITY EAST"                        3.45 or 7.5-min. name*
+
+QUADRANT NW                     quadrant indicator if cell size = 3.75-minutes*
+
+WEST_LONGITUDE -103 15  0.000                signed deg min sec SDDD MM SS.SSS*
+
+EAST_LONGITUDE -103 11 15.000                signed deg min sec SDDD MM SS.SSS*
+
+NORTH_LATITUDE   44  7 30.000                signed deg min sec SDDD MM SS.SSS*
+
+SOUTH_LATITUDE   44  3 45.000                signed deg min sec SDDD MM SS.SSS*
+
+PRODUCTION_DATE 2000  3 20                                          yyyy mm dd*
+
+RASTER_ORDER LEFT_RIGHT/TOP_BOTTOM                         video display order*
+
+BAND_ORGANIZATION "SINGLE FILE"              single file or BSQ, or BIL or BIP*
+
+BAND_CONTENT BLACK&WHITE                         black&white or red green blue*
+
+BITS_PER_PIXEL  8                                       radiometric resolution*
+
+SAMPLES_AND_LINES   5793  7655                      number of columns and rows*
+
+HORIZONTAL_DATUM NAD83                                primary horizontal datum*
+
+HORIZONTAL_COORDINATE_SYSTEM UTM                                              *
+
+COORDINATE_ZONE     13                           coordinate system zone number*
+
+HORIZONTAL_UNITS METERS                                coordinate system units*
+
+HORIZONTAL_RESOLUTION  1.00                pixel horiz. ground sample distance*
+
+SECONDARY_HORIZONTAL_DATUM NAD27                    secondary horizontal datum*
+
+XY_ORIGIN   639672.000  4887654.000      coord. of upper left pixel pri. datum*
+
+SECONDARY_XY_ORIGIN   639712.828  4887439.877 coord upper left pixel sec datum*
+
+NATION US                                                          nation code*
+
+STATE SD                                                        state fip code*
+
+NW_QUAD_CORNER_XY   640010.491  4887245.367  XY coords. of pri. NW quad corner*
+
+NE_QUAD_CORNER_XY   645010.918  4887353.635  XY coords. of pri. NE quad corner*
+
+SE_QUAD_CORNER_XY   645163.777  4880411.668  XY coords. of pri. SE quad corner*
+
+SW_QUAD_CORNER_XY   640158.075  4880303.408  XY coords. of pri. SW quad corner*
+
+SECONDARY_NW_QUAD_XY   640014.544  4887029.080  XY coords. - sec. NW quad cor.*
+
+SECONDARY_NE_QUAD_XY   645015.116  4887137.351  XY coords. - sec. NE quad cor.*
+
+SECONDARY_SE_QUAD_XY   645167.973  4880195.452  XY coords. - sec. SE quad cor.*
+
+SECONDARY_SW_QUAD_XY   640162.126  4880087.189  XY coords. - sec. SW quad cor.*
+
+RMSE_XY  0.90                                              doq horiz. accuracy*
+
+IMAGE_SOURCE "BLACK AND WHITE FILM"             b&w, cir, natural color, other*
+
+SOURCE_IMAGE_ID "NAPP 10958 089"                               source image id*
+
+SOURCE_IMAGE_DATE 1998 05 02                   source image date as yyyy mm dd*
+
+SOURCE_DEM_DATE 1976 00 00                          source dem date yyyy mm dd*
+
+AGENCY "WESTERN MAPPING CENTER (WMC)"                         oversight agency*
+
+PRODUCER "SCIENCE APPLICATIONS INTERNATIONAL"              producer/contractor*
+
+PRODUCTION_SYSTEM "GIS/MAGIC"                                production system*
+
+STANDARD_VERSION 1996 12                               version of DOQ standard*
+
+METADATA_DATE 2000 03 28                   date created or changed, yyyy mm dd*
+
+DATA_FILE_SIZE   44351208                               data set size in bytes*
+
+BYTE_COUNT   5793                                            header byte count*
+
+                                                                              *
+
+                                                                              *
+
+                                                                              *
+
+                                                                              *
+
+                                                                              *
+
+                                                                              *
+
+                                                                              *
+
+                                                                              *
+
+                                                                              *
+
+                                                                              *
+
+                                                                              *
+
+                                                                              *
+
+                                                                              *
+
+                                                                              *
+
+                                                                              *
+
+                                                                              *
+
+                                                                              *
+
+                                                                              *
+
+                                                                              *
+
+                                                                              *
+
+                                                                              *
+
+                                                                              *
+
+                                                                              *
+
+                                                                              *
+
+                                                                              *
+
+                                                                              *
+
+                                                                              *
+
+                                                                              *
+
+                               *
+                                               
+END_USGS_HEADER                                                               *
+
