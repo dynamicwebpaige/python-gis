@@ -13,4 +13,4 @@
 
 _Last update:_ *2/20/2015*
 
-A description of the various files included will follow. If you wish to use a .shp file from this repo, you *must* also download the accompanying files; otherwise, projected location data and attribute data is not available.
+A description of the various files included will follow. If you wish to use a .shp file from this repo, you *must* also download the accompanying files; otherwise, projected location data and attribute data will not be available.
