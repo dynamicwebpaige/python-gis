@@ -8,4 +8,4 @@ Miscellaneous GIS .shp and .gdb files for manipulation.
 ### Edwards_polygons
 Raster → polygon conversion for a geologic map of Austin area. 
 
-All files (.dbf, .prj, .sbn, .sbx, .shp, .shx) needed for accurage display in a GIS application.
+All files (`.dbf`, `prj` `.sbn`, `.sbx`, `.shp`, `.shx`) needed for accurage display in a GIS application.
